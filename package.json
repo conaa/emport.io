@@ -1,0 +1,18 @@
+{
+  "name": "emport",
+  "version": "0.1.0",
+  "description": "emport - discover if importing your vehicle is cheaper than buying locally",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongojs": "^2.4.0",
+    "request": "^2.76.0"
+  }
+}
